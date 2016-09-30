@@ -5,3 +5,4 @@ composer.phar
 /phpunit.xml
 /build.properties
 /docs
+.idea
